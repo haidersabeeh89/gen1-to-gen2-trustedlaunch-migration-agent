@@ -1,1 +1,3 @@
-SubscriptionId,ResourceGroup,VMName
+vmName,vmResourceGroupName,enableSecureBoot
+myvm01,my-rg,FALSE
+myvm02,my-rg,FALSE
